@@ -1,5 +1,5 @@
 // DEFAULT_M3U8: default stream loaded on page (optional)
-window.DEFAULT_M3U8 = "https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6364585244112/6364585244112.m3u8";
+window.DEFAULT_M3U8 = "https://livecfmt-mp.slivcdn.com/v1/manifest/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT01adprod-PlaybackConfig/3-c9ccbf62-dc2c-4759-89b4-21b0cd33ba87/3.m3u8";
 
 // JOIN_LINKS: up to 4 buttons (title and url)
 window.JOIN_LINKS = [
