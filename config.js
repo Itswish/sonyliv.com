@@ -1,5 +1,5 @@
 // DEFAULT_M3U8: default stream loaded on page (optional)
-window.DEFAULT_M3U8 = "https://d1zq5no55rw5ua.cloudfront.net/136736_hindi_hls_201f23489044449ta-di_h264/index.m3u8";
+window.DEFAULT_M3U8 = "http://103.73.107.122:3255/TSportsHD/index.m3u8";
 
 // JOIN_LINKS: up to 4 buttons (title and url)
 window.JOIN_LINKS = [
