@@ -6,5 +6,5 @@ window.JOIN_LINKS = [
   { title: "JOIN CHANNEL 1", url: "https://t.me/+-c580a3MZ05mNGFl" },
   { title: "JOIN CHANNEL 2", url: "https://t.me/+-c580a3MZ05mNGFl" },
   { title: "JOIN CHANNEL 3", url: "https://t.me/+-c580a3MZ05mNGFl" },
-  { title: " WATCH NOW 4", url: "https://in-mc-fdlive.fancode.com/mumbai/136741_hindi_hls_cca980f0b755405adfreeta-di_h264/1080p.m3u8" }
+  { title: " JOIN CHANNEL 4", url: "https://t.me/+-c580a3MZ05mNGFl" }
 ];
