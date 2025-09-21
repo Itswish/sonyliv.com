@@ -1,5 +1,5 @@
 // DEFAULT_M3U8: default stream loaded on page (optional)
-window.DEFAULT_M3U8 = "https://in-mc-fdlive.fancode.com/mumbai/136742_hindi_hls_03dea3461951169adfreeta-di_h264/1080p.m3u8";
+window.DEFAULT_M3U8 = "https://dish.slivcdn.com/hls/live/2020591/TEN3HD/master_3500.m3u8";
 
 // JOIN_LINKS: up to 4 buttons (title and url)
 window.JOIN_LINKS = [
